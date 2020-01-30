@@ -1,0 +1,19 @@
+nav {
+  height: 30px;
+  background-color: green;
+}
+.nav-items {
+  margin: 0;
+  overflow: hidden;
+}
+.nav-items li {
+  float: right;
+}
+.nav-items .text-link {
+  text-decoration: none;
+}
+.nav-items li span {
+  line-height: 30px;
+  padding: 0 10px;
+  cursor: pointer;
+}
